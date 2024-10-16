@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.newgulfpharmacy.app",
+    "sha256_cert_fingerprints":
+    ["25:50:07:18:96:FB:4C:1F:97:4F:4E:74:69:BC:CD:2E:BA:33:D4:49:55:C0:FB:B5:55:B9:36:30:09:14:95:69"]
+  }
+}]
